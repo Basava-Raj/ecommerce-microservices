@@ -178,8 +178,8 @@ This project is licensed under the MIT License - see [LICENSE](LICENSE) file.
 ## 👤 Author
 
 **Your Name**
-- GitHub: [@yourusername](https://github.com/Basava-Ra)
-- LinkedIn: [Your Profile](https://linkedin.com/in/basavaraj-mang-4a1b4a271)
+- GitHub: [@Basava-Raj](https://github.com/Basava-Raj)
+- LinkedIn: [Basavaraj Mang](https://linkedin.com/in/basavaraj-mang-4a1b4a271)
 
 ---
 
